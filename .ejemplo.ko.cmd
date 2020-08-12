@@ -1,0 +1,1 @@
+cmd_/home/franklin/Documents/ejemplo/ejemplo.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/franklin/Documents/ejemplo/ejemplo.ko /home/franklin/Documents/ejemplo/ejemplo.o /home/franklin/Documents/ejemplo/ejemplo.mod.o;  true
