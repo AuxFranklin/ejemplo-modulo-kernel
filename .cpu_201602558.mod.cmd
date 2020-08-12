@@ -1,1 +1,0 @@
-cmd_/home/franklin/Downloads/practica1_sopes2_modulos/cpu_201602558/cpu_201602558.mod := { echo  /home/franklin/Downloads/practica1_sopes2_modulos/cpu_201602558/cpu_201602558.o; echo; } > /home/franklin/Downloads/practica1_sopes2_modulos/cpu_201602558/cpu_201602558.mod
