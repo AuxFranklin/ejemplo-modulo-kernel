@@ -1,0 +1,9 @@
+make
+
+sudo insmod ejemplo.ko
+
+dmesg
+
+sudo rmmod ejemplo.ko
+
+pstree 
